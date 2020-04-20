@@ -1,4 +1,4 @@
-# maven Docker Image
+# npm Docker Image
 
 A minimal docker image that provides a docker image with node, npm, yarn, lerna and a samba-client
 
